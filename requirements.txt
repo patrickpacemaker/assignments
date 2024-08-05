@@ -1,0 +1,12 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
+xgboost
+lightgbm
+numpy
+autogluon
+statsmodels
+pykalman
+hurst
